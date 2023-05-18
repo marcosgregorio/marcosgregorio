@@ -1,5 +1,8 @@
-### Hi!
-
+- 👋 Hi, I’m @marcosgregorio;
+- 👀 I’m interested in ... programming, games & movies; 
+- 🌱 I’m currently learning ... Lua, C++, PHP and SQL;
+- 💞️ I’m looking to collaborate on ... web development and game development;
+- 📫 How to reach me ... marquinhogreg2013@gmail.com;
 <!-- <div align="center">
   <a href="https://github.com/marcosgregorio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgregorio&layout=compact&langs_count=7&theme=dark"/>
