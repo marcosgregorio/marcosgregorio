@@ -3,15 +3,13 @@
 - 🌱 I’m currently learning ... Lua, C++, PHP and SQL;
 - 💞️ I’m looking to collaborate on ... web development and game development;
 - 📫 How to reach me ... marquinhogreg2013@gmail.com;
-<!-- <div align="center">
-  <a href="https://github.com/marcosgregorio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgregorio&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgregorio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosgregorio&show_icons=true&theme=radical)
-
+<div style='padding:3em'>
+  <a href="https://github.com/lucassmaniotto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosgregorio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgregorio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
