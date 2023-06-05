@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @marcosgregorio;
-- 👀 I’m interested in ... programming, games & movies; 
+- 👀 I’m currently a programmer at Eagle-Track. I work with PHP, Vue.js and Postgres.
+-  I also am Computer Science student at UFFS. Programing is really one of the things that I most like to do in my days :) 
 - 🌱 I’m currently learning ... Lua, C++, PHP and SQL;
 - 💞️ I’m looking to collaborate on ... web development and game development;
 - 📫 How to reach me ... marquinhogreg2013@gmail.com;
