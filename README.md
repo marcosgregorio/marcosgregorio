@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcosgregorio;
 - 👀 I’m currently a programmer at Eagle-Track. I work with PHP, Vue.js and Postgres.
 -  I also am Computer Science student at UFFS. Programing is really one of the things that I most like to do in my days :) 
-- 🌱 I’m currently learning ... Lua, C++, PHP and SQL;
+- 🌱 I’m currently learning ... Lua, C++, PHP and React;
 - 💞️ I’m looking to collaborate on ... web development and game development;
 - 📫 How to reach me ... marquinhogreg2013@gmail.com;
 
@@ -25,8 +25,8 @@
 ##
 
 <div> 
-    <a href="https://instagram.com/marcosgsb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/marcosgsb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:marquinhogreg2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-gregório-de-souza-brito-6615571bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/marcos-gregório-de-souza-brito-6615571bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
