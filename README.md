@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcosgregorio;
-- 👀 I’m currently a programmer at DisparoPro. I work most with PHP and Node.
+- 👀 I’m currently a programmer at BrasilFone. I work most with PHP and Node.
 -  I also am Computer Science student at UFFS. Programing is really one of the things that I most like to do in my days :) 
 - 🌱 I’m currently learning ... React Native and Nest.js;
 - 💞️ I’m looking to collaborate on ... web development and mobile development;
