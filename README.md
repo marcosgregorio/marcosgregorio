@@ -32,6 +32,5 @@
 
 ##
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ykzkzwmt3l5tu2zucv3bml3hn)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ykzkzwmt3l5tu2zucv3bml3hn)
 
